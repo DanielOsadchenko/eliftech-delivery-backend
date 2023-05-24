@@ -1,1 +1,0 @@
-# eliftech-delivery-backend
